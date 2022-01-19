@@ -5,8 +5,10 @@ Create a new folder using your NIM and create a file named `README.md` in the fo
 NAME <fill your name>
 NIM  <fill your student identification number>
 ```
-##Answer
+## answer
 
+```
 NAME Annisa Kemala Sari
-
 NIM 10219099
+Fi3201 01
+```
