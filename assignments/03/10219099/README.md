@@ -20,8 +20,8 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 ### anwser 1
 Hasil kode di atas adalah
 ```
-Hasil dapat dilihat pada link berikut[3xraunv4q](https://onecompiler.com/python/3xraunv4q)
 ```
+Hasil dapat dilihat pada tautan berikut [3xraunv4q](https://onecompiler.com/python/3xraunv4q)
 
 ## question 2
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char1`, jalankan dan tampilkan hasilnya.
