@@ -73,6 +73,7 @@ Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/>
 ### answer 1
 Apakah penjelasan kode dia atas sudah dibaca atau hadir pada kuliah?
 ```
+sudah dan hadir saat kuliah
 ```
 
 ## question 2
@@ -81,9 +82,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(np.pi*(x-i))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](http://localhost:8888/view/wave%20to%20right.gif)
 
 
 ## question 3
@@ -92,6 +94,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(np.pi*(x+i))
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left]()
