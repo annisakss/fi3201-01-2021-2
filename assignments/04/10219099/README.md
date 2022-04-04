@@ -84,9 +84,9 @@ Potongan kode yang perlu disisipkan adalah
 ```
 y = np.sin(np.pi*(x-i))
 ```
-dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right](http://localhost:8888/view/wave%20to%20right.gif)
+dan hasil berkas gifnya adalah
 
+![wave to right](https://user-images.githubusercontent.com/97930056/161512654-31b1daab-c57f-4947-b9fe-545b57d2426b.gif)
 
 ## question 3
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang merambat ke kiri dengan panjang gelombang &lambda; = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
@@ -97,8 +97,7 @@ Potongan kode yang perlu disisipkan adalah
 y = np.sin(np.pi*(x+i))
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
-
+![wave to left](https://user-images.githubusercontent.com/97930056/161513514-2d2ae007-74de-45fc-8858-81095b136599.gif)
 
 ## question 4
 Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasioner yang tidak merambat dengan panjang gelombang &lambda; = 2 m dan periode T = 2 s. Perolehlah pula berkas gif hasilnya.
@@ -106,6 +105,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
 ```
+y = np.sin(np.pi * x) * np.cos(np.pi * i)
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![stationer](https://user-images.githubusercontent.com/97930056/161514352-f746d822-2708-4f59-bb0f-242d716eacf3.gif)
